@@ -15,13 +15,5 @@
   width: 50%;
   margin: 0 auto;
   position: relative;
-  background: red;
-  animation-name: panel;
-  animation-duration: 1s;
-  animation-timing-function: linear;
-}
 
-@keyframes panel {
-  from {top: 0px;}
-  to {top: 20px;}
 }
